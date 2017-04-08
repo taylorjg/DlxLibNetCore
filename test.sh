@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-cd DlxLibTests && dotnet test
+cd DlxLibTests && dotnet restore && dotnet test
