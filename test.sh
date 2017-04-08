@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-dotnet test
+cd DlxLibTests && dotnet test

@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-dotnet restore && dotnet build
+cd DlxLib && dotnet restore && dotnet build
